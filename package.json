@@ -1,0 +1,14 @@
+{
+  "name": "adidam-service-network",
+  "version": "0.0.0",
+  "description": "Adidam Service Netowkr",
+  "main": "server.js",
+  "author": "Jonathan Cobb",
+  "dependencies": {
+    "express": "^4.13.4"
+  },
+  "scripts":{
+    "start": "node server.js",
+    "postinstall": "bower install"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "name": "adidam-service-network",
+  "description": "Adidam Service Netowkr",
+  "main": "server.js",
+  "authors": [
+    "Jonathan Cobb"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/basic-success-discipline/adidam-service-network",
+  "moduleType": [],
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "^1.5.3"
+  }
+}
